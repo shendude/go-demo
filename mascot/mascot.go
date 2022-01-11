@@ -1,5 +1,5 @@
 package mascot
 
 func BestMascot() string {
-	return "Tux"
+	return "Go Gopher"
 }
